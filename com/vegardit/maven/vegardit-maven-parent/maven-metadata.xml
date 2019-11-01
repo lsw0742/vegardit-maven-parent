@@ -4,8 +4,8 @@
   <artifactId>vegardit-maven-parent</artifactId>
   <versioning>
     <versions>
-      <version>2.4.7-SNAPSHOT</version>
+      <version>2.4.8-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20191031092010</lastUpdated>
+    <lastUpdated>20191101092424</lastUpdated>
   </versioning>
 </metadata>
