@@ -5,27 +5,27 @@
   <version>2.4.14-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20200321.190236</timestamp>
+      <timestamp>20200330.052728</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20200321190236</lastUpdated>
+    <lastUpdated>20200330052728</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.4.14-20200321.190236-1</value>
-        <updated>20200321190236</updated>
+        <value>2.4.14-20200330.052728-1</value>
+        <updated>20200330052728</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>checkstyle</classifier>
         <extension>xml</extension>
-        <value>2.4.14-20200321.190236-1</value>
-        <updated>20200321190236</updated>
+        <value>2.4.14-20200330.052728-1</value>
+        <updated>20200330052728</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>eclipse-formatter</classifier>
         <extension>xml</extension>
-        <value>2.4.14-20200321.190236-1</value>
-        <updated>20200321190236</updated>
+        <value>2.4.14-20200330.052728-1</value>
+        <updated>20200330052728</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
